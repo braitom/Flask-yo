@@ -1,7 +1,9 @@
 # Flask-yo
-This is a simple sample app, how to use yo-api with flask.
+This is a simple app, using Yo API with flask.
 
 ## Setup
+
+First, you must get  a  [Yo API key](http://yoapi.justyo.co/)
 
 ### local
 1. Clone this repo locally. `git clone https://github.com/braitom/Flask-yo.git`
@@ -23,7 +25,7 @@ NOTICE : If you necessary, set the VirtualEnv.
 * POST `/`  
 Send yo, to all subscribers.
 * GET `/count`  
-You get Subscribers counts.
+You get subscribers counts.
 
 
 ## License
