@@ -1,0 +1,7 @@
+{
+  "name": "Flask-yo",
+  "description": "This is a simple sample app, how to use yo-api with flask. ",
+  "repository": "https://github.com/braitom/Flask-yo",
+  "logo": "",
+  "keywords": ["python", "flask", "yo"]
+}
