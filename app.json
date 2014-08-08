@@ -2,6 +2,6 @@
   "name": "Flask-yo",
   "description": "This is a simple sample app, how to use yo-api with flask. ",
   "repository": "https://github.com/braitom/Flask-yo",
-  "logo": "",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["python", "flask", "yo"]
 }
