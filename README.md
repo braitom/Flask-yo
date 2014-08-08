@@ -1,9 +1,7 @@
 # Flask-yo
-This is a simple app, using Yo API with flask.
+This is a simple sample app, how to use yo-api with flask.
 
 ## Setup
-
-First, you must get  a  [Yo API key](http://yoapi.justyo.co/)
 
 ### local
 1. Clone this repo locally. `git clone https://github.com/braitom/Flask-yo.git`
@@ -21,11 +19,17 @@ NOTICE : If you necessary, set the VirtualEnv.
 4. Replace '[YOUR_YO_API_TOKEN]' in config.py
 6. `git push heroku master`
 
-## Using
+
+Alternatively, you can deploy your own copy of the app using this button:
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+## Useing
 * POST `/`  
 Send yo, to all subscribers.
 * GET `/count`  
-You get subscribers counts.
+You get Subscribers counts.
 
 
 ## License
